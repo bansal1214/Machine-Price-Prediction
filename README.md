@@ -1,2 +1,2 @@
-# Machine-Price-Prediction
-Machine Price Prediction 
+# Machine-Failure-Prediction
+Machine Failure Prediction 
